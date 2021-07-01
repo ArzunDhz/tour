@@ -194,9 +194,9 @@ outline: none !important;
 
 
 .wrapper {
-margin-left: 95%;
+margin-right:auto;
 position: fixed;
-margin-top: 10rem;
+
 box-sizing: border-box;
 z-index: 1000;
 
@@ -293,19 +293,19 @@ background-color: #de463b;
 color: #ffffff;
 }
 
-@media(max-width: 700px){
+@media(max-width: 1100px){
   *{
     padding: 0;
     margin:0;
   }
   .disNep{
-    top: 2px;
+    top: -520%;
     margin: auto;
     font-size: 3rem;
-    left: 100px ;
+    left: 35% ;
   }
   .animatedBottons{
-    top: 8rem;
+    top: -4rem;
   }
   .frsith{
     flex-direction: column;
