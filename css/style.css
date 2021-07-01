@@ -192,9 +192,9 @@ outline: none !important;
 
 
 .wrapper {
-margin-right:auto;
+margin-left: 95%;
 position: fixed;
-
+margin-top: 10rem;
 box-sizing: border-box;
 z-index: 1000;
 
